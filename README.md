@@ -59,7 +59,11 @@ Check out the live demo of our dashboard here:
 ## Repository Structure  
 📂 euro-park-wait-times
 ├── 📁 data_cleaning           # Code for data cleaning
+
 ├── 📁 modelling          # Code for modelling
+
 ├── 📁 dashboard       # Code for interactive visualization (to be uploaded)
+
 ├── 📄 README.md       # Project documentation
+
 ├── 📄 The Endless Line - Team 4.pdf      # Hackathon final report
